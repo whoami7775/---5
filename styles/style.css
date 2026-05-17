@@ -1,0 +1,127 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#color {
+    color: #4E6FAE;
+}
+
+#html {
+    color: #30CBC2;
+    font-size: 48px;
+    margin-left: 52px;
+    margin-bottom: 52px;
+    padding-top: 54px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: #8D81FF;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.date {
+	width: 50px;
+    height: 50px;
+    background-color: rgba(80, 18, 213, 1);
+    color: rgba(132, 255, 129, 1);
+    font-size: 24px;
+    padding: 8px 12px;
+    box-sizing: border-box;
+}
+
+.month {
+    color: #8D81FF;
+    font-size: 24px;
+    margin-top: 18px;
+    font-family: "BPG Algeti", sans-serif;
+}
+
+article {
+	margin-left: 52px;
+}
+
+h5 {
+	font-size: 20px;
+	font-weight: 700;
+	color: rgba(78, 111, 174, 1);
+	margin-top: 8px;
+    font-family: "ArchyEDT-Bold", sans-serif;
+}
+
+img {
+	float: left;
+	margin-right: 66px;
+}
+
+.content {
+	margin-top: 13px;
+}
+
+.text {
+	font-weight: 400;
+	font-size: 16px;
+	color: rgba(78, 111, 174, 1);
+    font-family: "ArchyEDT-Bold", sans-serif;
+}
+
+.date2 {
+	width: 50px;
+    height: 50px;
+    background-color: rgba(80, 18, 213, 1);
+    color: rgba(132, 255, 129, 1);
+    font-size: 24px;
+    padding: 8px 12px;
+    box-sizing: border-box;
+    margin-top: 155px;
+}
+
+.date3 {
+	width: 50px;
+    height: 50px;
+    background-color: rgba(80, 18, 213, 1);
+    color: rgba(132, 255, 129, 1);
+    font-size: 24px;
+    padding: 8px 12px;
+    box-sizing: border-box;
+    margin-top: 310px;
+}
+
+.text2 {
+	font-weight: 400;
+	font-size: 16px;
+	color: rgba(78, 111, 174, 1);
+    margin-top: 32px;
+    display: inline-block;
+    font-family: "ArchyEDT-Bold", sans-serif;
+}
+
+#fc {
+    width: 50px;
+    height: 50px;
+    padding-left: 52px;
+    margin-top: 145px;
+}
+
+#yt {
+    width: 71px;
+    height: 49px;
+    padding-left: 30px;
+    margin-top: 145px;
+}
+
+.line {
+	width: 2px;
+	height: 48px;
+	background-color: rgba(80, 18, 213, 1);
+	display: inline-block;
+    margin: 145px -184px; 
+}
